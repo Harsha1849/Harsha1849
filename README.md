@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**Harsha1849/Harsha1849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student passionate about technology, constantly learning and improving my skills in:
+- 💻 Full Stack Development (MERN, Django, etc.)
+- 🎨 UI/UX Design
+- 🔗 Blockchain Development
+- 🔒 Cyber Security
+- 📊 Data Science & Machine Learning
 
-Here are some ideas to get you started:
+## 🚀 What I'm Currently Doing:
+- 🔥 Exploring Web3 & Blockchain technologies
+- 📚 Learning advanced concepts in Cyber Security & Ethical Hacking
+- 🎨 Improving UI/UX skills for better user experiences
+- 🛠 Building and contributing to open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+
+## 🎯 My Goals for 2025:
+- ✅ Contribute more to **open-source** projects
+- ✅ Build **real-world** projects in Web3, AI & Cyber Security
+- ✅ Learn **DevOps & Cloud Computing**
+- ✅ Create a **personal portfolio website** 🚀
+
+## 🌱 Let's Connect!
+📬 Feel free to connect with me on:
+- [LinkedIn](#) (Add your profile link)
+- [Twitter](#) (If you have one)
+- [Email](#) (Add your email)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&color=green)
