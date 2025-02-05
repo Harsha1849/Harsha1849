@@ -12,3 +12,9 @@
 - 📚 Learning advanced concepts in Cyber Security & Ethical Hacking
 - 🎨 Improving UI/UX skills for better user experiences
 - 🛠 Building and contributing to open-source projects
+
+## 💻 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsha1849&show_icons=true&theme=dark)
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha1849&layout=compact&theme=dark)
