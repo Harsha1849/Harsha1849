@@ -12,5 +12,3 @@
 - 📚 Learning advanced concepts in Cyber Security & Ethical Hacking
 - 🎨 Improving UI/UX skills for better user experiences
 - 🛠 Building and contributing to open-source projects
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&color=green)
