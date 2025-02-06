@@ -1,4 +1,4 @@
-# Hi there, I'm Harsha 👋
+# Hi there, I'm Harsha Aradhya 👋
 
 🎓 I'm a student passionate about technology, constantly learning and improving my skills in:
 - 💻 Full Stack Development (MERN, Django, etc.)
