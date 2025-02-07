@@ -4,12 +4,11 @@
 - 💻 Full Stack Development (MERN, Django, etc.)
 - 🎨 UI/UX Design
 - 🔗 Blockchain Development
-- 🔒 Cyber Security
 - 📊 Data Science & Machine Learning
 
 ## 🚀 What I'm Currently Doing:
 - 🔥 Exploring Web3 & Blockchain technologies
-- 📚 Learning advanced concepts in Cyber Security & Ethical Hacking
+- 📚 Learning advanced concepts in JavaScript & Solidity
 - 🎨 Improving UI/UX skills for better user experiences
 - 🛠 Building and contributing to open-source projects
 
