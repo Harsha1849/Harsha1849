@@ -7,7 +7,7 @@
 - 📊 Data Science & Machine Learning
 
 ## 🚀 What I'm Currently Doing:
-- 🔥 Exploring Web3 & Blockchain technologies
+- 🔥 Exploring Cybersecurity & Blockchain technologies
 - 📚 Learning advanced concepts in JavaScript & Solidity
 - 👨‍💻 Improving DSA & Java skills
 - 🛠 Building and contributing to open-source projects
