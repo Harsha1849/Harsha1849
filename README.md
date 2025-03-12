@@ -1,7 +1,7 @@
 # Hi there, I'm Harsha Aradhya 👋
 
 🎓 I'm a student passionate about technology, constantly learning and improving my skills in:
-- 💻 Full Stack Development (MERN, Django, etc.)
+- 💻 Full Stack Development
 - ⚙️ Data Structure & Algorithms
 - 🔗 Blockchain Development
 - 📊 Data Science & Machine Learning
